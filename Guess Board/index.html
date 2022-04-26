@@ -115,7 +115,22 @@
 <script src="assets/jQuery/jquery-3.6.0.min.js"></script>
 
 <script>
+    /*guess*/
+    var guessBoard = document.getElementById('guessBoard');
 
+    guessBoard.onclick = function() {
+        let x = Math.floor((Math.random() * 4) + 1);
+
+        if (x == 1){
+            $("#guessBoard").css("transform","rotate(765deg)");
+        }else if (x == 2){
+            $("#guessBoard").css("transform","rotate(855deg)");
+        }else if (x == 3){
+            $("#guessBoard").css("transform","rotate(945deg)");
+        }else if (x == 4){
+            $("#guessBoard").css("transform","rotate(1030deg)");
+        }
+    }
 </script>
 
 </html>
