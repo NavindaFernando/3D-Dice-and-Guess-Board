@@ -6,9 +6,6 @@ https://user-images.githubusercontent.com/86073690/174475011-1d4d74a3-a35c-4c2a-
 
 ***
 
-![n6ehVK_4c398faab7c4955e4a3507b15371f0c9_00-00-00_00-00-23_2](https://user-images.githubusercontent.com/86073690/174475161-48ef4a09-7b87-4664-a752-3591c96c75a8.gif)
-
-
 <h6 align="center">
 dev environment :microscope:
 </h6>
